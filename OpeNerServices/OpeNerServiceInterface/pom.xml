@@ -17,7 +17,7 @@
             <name>Local Repository</name>
             <url>/${user.dir}/.m2/repository/com/github/cltl/KafSaxParser/v3.1.2/</url>
         </repository>
-       
+
     </repositories>
     <dependencies>
         <dependency>
@@ -35,7 +35,7 @@
             <artifactId>commons-collections</artifactId>
             <version>20040616</version>
         </dependency>
-        
-       
+
+
     </dependencies>
 </project>
